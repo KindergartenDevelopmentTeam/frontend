@@ -1,0 +1,50 @@
+.admin_page_div{
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.selection{
+    margin-left: 0.5em;
+}
+
+.new-group{
+    width: 360px;
+    height: 50px;
+    border: 3px solid darkblue;
+    color: black;
+    background: lightgrey;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.modify-group{
+    width: 360px;
+    height: 120px;
+    border: 3px solid darkblue;
+    color: black;
+    background: lightgrey;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.new-person{
+    width: 360px;
+    height: 120px;
+    border: 3px solid darkblue;
+    color: black;
+    background: lightgrey;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 5px;
+}

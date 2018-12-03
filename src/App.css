@@ -1,0 +1,180 @@
+
+.child-data-container{
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.comment-text-container{
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 20px;
+}
+
+.comment-header{
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.contact-button{
+    width: 300px;
+    min-height: 80px;
+    background: lightseagreen;
+    margin-left: 70px;
+
+}
+
+.contacts-button-div{
+    background: grey;
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+}
+
+.default-layout{
+margin-top: 50px;
+}
+
+.messages-body{
+  margin: auto;
+  background: whitesmoke;
+}
+
+.message-contact-container{
+    background: darkgrey;
+    text-align: center;
+
+}
+
+.messages-textfield-div{
+    width: 300px;
+    text-align: end;
+    text-align-last: end;
+    margin-left: 440px;
+
+
+}
+
+.new-comment{
+
+}
+
+.new-comment-text-div{
+
+    width: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+    min-height: fit-content;
+}
+
+.notification-button{
+    margin: 0 auto;
+    width: 400px;
+    min-height: 150px;
+    background: lightseagreen;
+    padding-top: 10px;
+}
+
+.notification-button-div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.notifications-container{
+    text-align: center;
+}
+
+.group-post-button-div{
+}
+
+.people-button{
+    width: 300px;
+    min-height: 60px;
+    background: lightseagreen;
+    padding: 1px 0;
+    margin-left: 20px;
+
+
+}
+
+.people-type-container{
+    width: auto;
+    background: lightblue;
+
+    text-align: center;
+    padding: 2px;
+    margin-bottom: 20px;
+}
+
+.post-bg{
+    margin: auto;
+    background: grey;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    padding-top: 2px;
+}
+
+.post-div{
+    text-align: center;
+    justify-content: center;
+    width: 60%;
+    height: auto;
+    min-height: 50px;
+    border: 2px solid red;
+    color: black;
+    background: white;
+    margin: 10px auto;
+    padding: auto;
+}
+
+.post-header-div{
+    text-align: left;
+    margin-left: 30px;
+}
+
+.post-like-button-div{
+    text-align: right;
+    margin-right: 80px;
+    margin-bottom: 20px;
+}
+
+.post-text-container{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.send-new-comment-div{
+    text-align: end;
+    margin-right: 20px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+.sent-messages-contact-name{
+    padding-left: 30px;
+}
+
+.sent-messages-div{
+    height: 250px;
+    max-height: 250px;
+    width:90%;
+    border: 2px solid red;
+    color: black;
+    background: white;
+    margin-left: 150px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.welcome-div{
+    text-align: center;
+    margin-top: 120px;
+}
